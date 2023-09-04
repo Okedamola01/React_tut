@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem is suppose to be here"
+    },
+    {
+      "id": 2,
+      "title": "2nd Post",
+      "datetime": "August 30, 2023 3:24:19 PM",
+      "body": "Lorem is suppose to be here"
+    },
+    {
+      "id": 3,
+      "title": "3rd post",
+      "datetime": "August 30, 2023 3:24:55 PM",
+      "body": "Lorem is suppose to be here"
+    },
+    {
+      "id": 4,
+      "title": "My 4th Post",
+      "datetime": "August 30, 2023 2:44:28 PM",
+      "body": "Edit post now working fine. On to the next feature."
+    },
+    {
+      "id": 5,
+      "title": "Latest Post",
+      "datetime": "August 25, 2023 6:39:22 AM",
+      "body": "Testing the post before i move forward to make sure everything is working fine"
+    },
+    {
+      "id": 9,
+      "title": "Data Context",
+      "datetime": "August 30, 2023 2:40:50 PM",
+      "body": "Data context really cleaned up my App.js file, no more props being passed down"
+    },
+    {
+      "id": 11,
+      "title": "New Test",
+      "datetime": "August 30, 2023 3:47:35 PM",
+      "body": "More testing going on i EditPost.js"
+    },
+    {
+      "id": 12,
+      "title": "96%",
+      "datetime": "September 04, 2023 11:19:31 AM",
+      "body": "Testing 1112"
+    },
+    {
+      "id": 13,
+      "title": "9th",
+      "datetime": "September 04, 2023 11:26:04 AM",
+      "body": "Last one"
+    }
+  ]
+}

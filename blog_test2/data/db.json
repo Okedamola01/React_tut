@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem is suppose to be here"
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "datetime": "July 02, 2021 11:17:36 AM",
+      "body": "Lorem is suppose to be here"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "datetime": "July 03, 2021 11:17:36 AM",
+      "body": "Lorem is suppose to be here"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "datetime": "August 24, 2023 7:58:48 PM",
+      "body": "Edit post now working fine. On to the next feature."
+    },
+    {
+      "id": 5,
+      "title": "Latest Post",
+      "datetime": "August 25, 2023 6:39:22 AM",
+      "body": "Testing the post before i move forward to make sure everything is working fine"
+    },
+    {
+      "id": 6,
+      "title": "Big Data",
+      "datetime": "August 25, 2023 12:32:04 PM",
+      "body": "App really adding up now, can't wait to find out what other features i'll be adding."
+    },
+    {
+      "id": 7,
+      "title": "Axios Error",
+      "datetime": "August 28, 2023 1:17:28 PM",
+      "body": "My custom hook useAxiosFetch.js now working perfectly, honestly i don't know what i did but i'm glad to be moving forward."
+    }
+  ]
+}
